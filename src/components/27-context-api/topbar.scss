@@ -1,0 +1,16 @@
+
+.exchange{
+    background-color: aquamarine;
+    color: darkblue;
+    padding: 1rem;
+    nav{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        > div{
+            display: flex;
+            gap: 2rem;
+        }
+    }
+    
+}
